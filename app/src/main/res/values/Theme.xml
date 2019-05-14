@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomeTheme" parent="@style/Theme.AppCompat.Light.NoActionBar">
+
+        <item name="android:windowFrame">@drawable/little</item>
+        <item name="android:windowBackground">@drawable/happynut</item>
+        <item name="android:panelColorForeground">#ff000000</item>
+
+
+    </style>
+</resources>
